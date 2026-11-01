@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+/app/build/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+/captures
+.externalNativeBuild
+.cxx
+
+# Local config (путь к SDK, ключи)
+local.properties
+
+# Signing
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
